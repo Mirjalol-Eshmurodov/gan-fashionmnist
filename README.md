@@ -45,7 +45,7 @@ A Generative Adversarial Network (GAN) trained on the Fashion MNIST dataset to g
 
 **Locally:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/gan-fashionmnist.git
+git clone https://github.com/Mirjalol-Eshmurodov/gan-fashionmnist.git
 cd gan-fashionmnist
 pip install -r requirements.txt
 jupyter notebook gan-fashionmnist-kaggle.ipynb
