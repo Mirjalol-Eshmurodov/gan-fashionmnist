@@ -29,10 +29,9 @@ A Generative Adversarial Network (GAN) trained on the Fashion MNIST dataset to g
 ## 📈 Results
 
 ### Before Training (Epoch 0) — Pure noise
-![Epoch 0](results/epoch_00.png)
-
+![Epoch 0](epoch_00.png)
 ### After Training (Epoch 30) — Generated clothing
-![Epoch 30](results/epoch_30.png)
+![Epoch 30](epoch_30.png)
 
 ---
 
